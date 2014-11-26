@@ -12,7 +12,7 @@
 ```
   git clone https://github.com/lerss/coding-interview-grails.git
   cd coding-interview-grails
-  git remote origin set-url <你自己的repo地址>
+  git remote set-url origin <你自己的repo地址>
   git push -u origin master
 ```
 
