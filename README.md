@@ -13,7 +13,7 @@
   git clone https://github.com/lerss/coding-interview-grails.git
   cd coding-interview-grails
   git remote set-url origin <你自己的repo地址>
-  git push -u origin master
+  git push -f -u origin master
 ```
 
 2. 题目中自带一个简单的例子，也就是HelloWorld的例子，可以参考。如何运行例子？需要JDK 1.8最新版，Grails 2.4.3，按照官方文档配置好环境以后，切换到项目目录中，运行：
