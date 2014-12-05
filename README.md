@@ -11,7 +11,7 @@
 1. 采用GORM作为底层，将题目中的集成测试全部跑通。
 2. 不得使用原生SQL，必须确保在不同数据库间的兼容性
 3. 不能改动测试代码，如果需要domain，自己新建一个，然后自己转换成DTO，不要改动现有的
-4. clone本项目到本地（不得fork本项目），并且自己注册一个github账号，创建一个repo，将你自己的repo通过 `git remote set-url` 指令设置好，然后完成题目以后，将代码push到自己的仓库中，并将本账号（lerss）添加到你的git项目的成员中，用作评审的目的。
+4. clone本项目到本地（不得fork本项目），并且自己注册一个github账号，创建一个repo，将你自己的repo通过 `git remote set-url` 指令设置好，然后完成题目以后，将代码push到自己的仓库中，并将本账号（lerss）添加到你的github项目的成员(collaborator)中，用作评审的目的。
 
 说明：
 
